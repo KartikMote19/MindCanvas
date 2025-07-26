@@ -1,0 +1,10 @@
+# Ignore node_modules in all folders
+**/node_modules/
+
+# Ignore .env in all folders
+**/.env
+
+# Ignore logs and system/editor files
+*.log
+.DS_Store
+.vscode/
